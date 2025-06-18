@@ -1,7 +1,7 @@
 # Watch-Face-Studio-Faces
 Watch faces in Watch Face Studio for Wear OS Devices
 
-Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaked stopped working.  I have recreated several of the watches I used to use in watch face format in Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  Most are recreations of watched collected over a fairly long period of time!
+Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaked stopped working.  I have recreated several of the watches I used to use in watch face format using Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  Most are recreations of watches collected over a fairly long period of time!  Not all are complete conversions; some things I have not figured out how to duplicate in WFS.
 
 Watch Face Studio is needed.
 Save wfs file.
@@ -22,3 +22,21 @@ Use the send to device option to send to a watch.
 * Everest - Original author no known.
 * Fantasia Moon Phase - by Zedonite
 * Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
+* Ingersol Donald Edition - by Andre
+* Ingersol Donald - Pocket watch (1939) - Author unknown
+* Mando and Grogu - digital watch by mhoegs
+* Master Gracie  - by Groonklie
+* May The Mouse Be With You - Autor unknown.  Probably downloaded from G+
+* Mickey Citizen - Citizen Mickey watch I own.  Scanned from that well used watch.
+* Mickey Railway Gaurd - by Henk Pols
+* Mickey and Donald Clock Cleaners - by Tom Hald
+* Mickey v4 - From G+ days.  Autor unknown.
+* Partners - The Partners Statue at WDW. Created by me.
+* Passholder - by caligulus
+* Pirates of the Caribbean - by Joe Mammone
+* Pirates - Pirates sign at WDW or DL...not certain which! Photograph and watch by me.
+* Rolex Daytona Mickey and JM - Mickey Mouse Rolex by sunthorn. Slightly modded.
+* The Mouse Is Strong With This One  - by sunthorn
+* Tissot Fade Mickey - downloaded from G+ whay back.  Mickey-ized by me.
+* Trader Sams Nautilus - by Spyrateradio
+* Vitruvian Mackey - Author unknow.
