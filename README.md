@@ -8,17 +8,17 @@ Save wfs file.
 Open in WFS.
 Use the send to device option to send to a watch.
 
-Aqualand.wfs - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
-Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
-BHD Survival Basic Mickey Mouse.wfs - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
-Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
-Chip and Dale - Analog watch face, one of my favs. Author unknown. Probably originally downloaded from G+.
-Chip and Dale Digital - Chip and Dale by VinkeNest.
-Countdown To Adventure - Adventures by Disney trip countdown. Created by me.
-Countdown To Disney - Disney trip countdown, modded.  Orignal author missing.
-DL Clock Tower - Watch face of the DL clock tower. Original author missing,
-Disney Clock Cleaners - Watch was part of the Walt Disney Elements Collection in honor of the 1937 "short" of the same name. Probably downloaded from G+. Orignal author missing.
-Donald Duck - by Tag1tup4fun.
-Everest - Original author no known.
-Fantasia Moon Phase - by Zedonite
-Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
+* Aqualand.wfs - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
+* Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
+* BHD Survival Basic Mickey Mouse.wfs - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
+* Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
+* Chip and Dale - Analog watch face, one of my favs. Author unknown. Probably originally downloaded from G+.
+* Chip and Dale Digital - Chip and Dale by VinkeNest.
+* Countdown To Adventure - Adventures by Disney trip countdown. Created by me based on "Countdown to Disney".
+* Countdown To Disney - Disney trip countdown, modded.  Orignal author missing.
+* DL Clock Tower - Watch face of the DL clock tower. Original author missing,
+* Disney Clock Cleaners - Watch was part of the Walt Disney Elements Collection in honor of the 1937 "short" of the same name. Probably downloaded from G+. Orignal author missing.
+* Donald Duck - by Tag1tup4fun.
+* Everest - Original author no known.
+* Fantasia Moon Phase - by Zedonite
+* Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
