@@ -9,13 +9,13 @@ Open in WFS.
 Use the send to device option to send to a watch.
 
 * Ambassador Mickey - Original author unknown.  From the G+ days.
-* Aqualand.wfs - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
+* Aqualand - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
 * Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
-* BHD Survival Basic Mickey Mouse.wfs - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
+* BHD Survival Basic Mickey Mouse - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
 * Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
 * Chip and Dale - Analog watch face, one of my favs. Author unknown. Probably originally downloaded from G+.
 * Chip and Dale Digital - Chip and Dale by VinkeNest.
-* Classic Mickey Beige - A Claassic Mickey Watch.  Orignal autor unknown.
+* Classic Mickey Beige - A Classic Mickey Watch.  Orignal author unknown.
 * Countdown To Adventure - Adventures by Disney trip countdown. Created by me based on "Countdown to Disney".
 * Countdown To Disney - Disney trip countdown, modded.  Orignal author missing.
 * DL Clock Tower - Watch face of the DL clock tower. Original author missing,
