@@ -34,6 +34,7 @@ Use the send to device option to send to a watch.
 * Mickey Railway Gaurd - by Henk Pols
 * Mickey and Donald Clock Cleaners - by Tom Hald
 * Mickey v4 - From G+ days.  Autor unknown.
+* My Haunted Mansion - HM theme, potography and face by me.
 * Partners - The Partners Statue at WDW. Created by me.
 * Passholder - by caligulus
 * Pirates of the Caribbean - by Joe Mammone
