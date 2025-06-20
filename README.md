@@ -1,13 +1,14 @@
 # Watch-Face-Studio-Faces
 Watch faces in Watch Face Studio for Wear OS Devices
 
-Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaked stopped working.  I have recreated several of the watches I used to use in watch face format using Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  Most are recreations of watches collected over a fairly long period of time!  Not all are complete conversions; some things I have not figured out how to duplicate in WFS.
+Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaked stopped working.  I have recreated several of the watches I used to use in watch face format using Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  I have tried to include the ID of the author if I have it but many of these were downloaded from the community on G+ some time ago. I initally used an Moto 360, then an LG watch and a Samsung Galaxy 4 and 7. Not all are complete conversions; some things I have not figured out how to duplicate in WFS. Some things I'm not intrested in duplicating! The basics should be there though.
 
 Watch Face Studio is needed.
 Save wfs file.
 Open in WFS.
 Use the send to device option to send to a watch.
 
+* Ambassador Mickey - Original author unknown.  From the G+ days.
 * Aqualand.wfs - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
 * Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
 * BHD Survival Basic Mickey Mouse.wfs - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
