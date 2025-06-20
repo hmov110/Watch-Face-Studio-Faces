@@ -15,9 +15,11 @@ Use the send to device option to send to a watch.
 * Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
 * Chip and Dale - Analog watch face, one of my favs. Author unknown. Probably originally downloaded from G+.
 * Chip and Dale Digital - Chip and Dale by VinkeNest.
+* Classic Mickey Beige - A Claassic Mickey Watch.  Orignal autor unknown.
 * Countdown To Adventure - Adventures by Disney trip countdown. Created by me based on "Countdown to Disney".
 * Countdown To Disney - Disney trip countdown, modded.  Orignal author missing.
 * DL Clock Tower - Watch face of the DL clock tower. Original author missing,
+* Digital Mickey - Colorful Digital Mickey. By "JM".
 * Disney Clock Cleaners - Watch was part of the Walt Disney Elements Collection in honor of the 1937 "short" of the same name. Probably downloaded from G+. Orignal author missing.
 * Donald Duck - by Tag1tup4fun.
 * Everest - Original author no known.
