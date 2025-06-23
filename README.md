@@ -31,6 +31,7 @@ Use the send to device option to send to a watch.
 * Master Gracie  - by Groonklie
 * May The Mouse Be With You - Autor unknown.  Probably downloaded from G+
 * Mickey Citizen - Citizen Mickey watch I own.  Scanned from that well used watch.
+* Mickey Gears - by Jeff Bidwell
 * Mickey Railway Gaurd - by Henk Pols
 * Mickey and Donald Clock Cleaners - by Tom Hald
 * Mickey v4 - From G+ days.  Autor unknown.
