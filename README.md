@@ -25,6 +25,7 @@ Use the send to device option to send to a watch.
 * Everest - Original author no known.
 * Fantasia Moon Phase - by Zedonite
 * Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
+* Ingersol Donald 60th Anniversary - by PaulBAMM00
 * Ingersol Donald Edition - by Andre
 * Ingersol Donald - Pocket watch (1939) - Author unknown
 * Mando and Grogu - digital watch by mhoegs
