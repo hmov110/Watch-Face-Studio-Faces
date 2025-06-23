@@ -30,8 +30,10 @@ Use the send to device option to send to a watch.
 * Mando and Grogu - digital watch by mhoegs
 * Master Gracie  - by Groonklie
 * May The Mouse Be With You - Autor unknown.  Probably downloaded from G+
+* Mickey 360 Mod - A simple Mickey watch originally for tyhe Moto360 and downloaded from G+.  Modded for a round face. Original author unknown.
 * Mickey Citizen - Citizen Mickey watch I own.  Scanned from that well used watch.
 * Mickey Gears - by Jeff Bidwell
+* Mickey Genta v30 - Another from G+ days, original author has been lost.  Originally, "Mickey Mouse - Gerald Genta v3.0". Simplified from the original.
 * Mickey Railway Gaurd - by Henk Pols
 * Mickey and Donald Clock Cleaners - by Tom Hald
 * Mickey v4 - From G+ days.  Autor unknown.
