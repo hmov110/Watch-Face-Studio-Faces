@@ -21,6 +21,7 @@ Use the send to device option to send to a watch.
 * DL Clock Tower - Watch face of the DL clock tower. Original author missing,
 * Digital Mickey - Colorful Digital Mickey. By "JM".
 * Disney Clock Cleaners - Watch was part of the Walt Disney Elements Collection in honor of the 1937 "short" of the same name. Probably downloaded from G+. Orignal author missing.
+* Donald At Bat - Author uncertain.  There is a very similar version by PaulBAMM00. This is based on "Donald At Bat v2.0"
 * Donald Duck - by Tag1tup4fun.
 * Everest - Original author no known.
 * Fantasia Moon Phase - by Zedonite
