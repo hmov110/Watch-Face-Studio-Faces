@@ -12,7 +12,7 @@ Use the send to device option to send to a watch.
 * Aqualand - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
 * Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
 * BHD Survival Basic Mickey Mouse - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
-* Balance Mickey - by Hnek Pols
+* Balance Mickey - by Henk Pols
 * Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
 * Chip and Dale - Analog watch face, one of my favs. Author unknown. Probably originally downloaded from G+.
 * Chip and Dale Digital - Chip and Dale by VinkeNest.
