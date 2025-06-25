@@ -35,6 +35,7 @@ Use the send to device option to send to a watch.
 * Mando and Grogu - digital watch by mhoegs
 * Master Gracie  - by Groonklie
 * May The Mouse Be With You - Autor unknown.  Probably downloaded from G+
+* Mickey Aviator - by Henk Pols
 * Mickey 360 Mod - A simple Mickey watch originally for tyhe Moto360 and downloaded from G+.  Modded for a round face. Original author unknown.
 * Mickey Citizen - Citizen Mickey watch I own.  Scanned from that well used watch.
 * Mickey Gears - by Jeff Bidwell
