@@ -26,6 +26,7 @@ Use the send to device option to send to a watch.
 * Disney Friends - by David Faulks. Slightly modded.  Orginally "Disney Friends Silver"
 * Donald At Bat - Author uncertain.  There is a very similar version by PaulBAMM00. This is based on "Donald At Bat v2.0"
 * Donald Duck - by Tag1tup4fun.
+* El Pato Naco - Donald from a Tobler Chocolate Wrapper. By Bri@n and j@y
 * Everest - Original author no known.
 * Fantasia Moon Phase - by Zedonite
 * Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
