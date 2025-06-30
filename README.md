@@ -11,6 +11,7 @@ Use the send to device option to send to a watch.
 * Ambassador Mickey - Original author unknown.  From the G+ days.
 * Aqualand - Aqualand dive watch - A recreation of a watch I own and scanned from tha watch.
 * Aqualand Pro - Aqualand Pro 40th Anniversary - A recreation of a watch I own.
+* Backwards Goofy - Originally "Backwards Goofy Baseball". Author unknown.  Originally the hands went backwards, which I disliked!  They go forwards now but easy enought to make 'em go backwards if you like!
 * BHD Survival Basic Mickey Mouse - A mod of the Survival Basic watch from "Bone Head Designs - Modded by me.
 * Balance Mickey - by Henk Pols
 * Big Mickey - Mickey watch face by "darthchie" - Originally "Disneyland 2023".
