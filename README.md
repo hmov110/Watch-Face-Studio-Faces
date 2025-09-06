@@ -1,7 +1,7 @@
 # Watch-Face-Studio-Faces
 Watch faces in Watch Face Studio for Wear OS Devices
 
-Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaked stopped working.  I have recreated several of the watches I used to use in watch face format using Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  I have tried to include the ID of the author if I have it but many of these were downloaded from the community on G+ some time ago. I initally used an Moto 360, then an LG watch and a Samsung Galaxy 4 and 7. Not all are complete conversions; some things I have not figured out how to duplicate in WFS. Some things I'm not intrested in duplicating! The basics should be there though.
+Recreations of watchfaces that I used in Watchmaker.  With an upgrade to a Galaxy 7 watch and Wear OS updates, Watchmaker stopped working.  I have recreated several of the watches I used to use in watch face format using Watch Face Studio (Samsung).  As a Disney fan, most of these are Disney related watches originally downloaded and used in Watchmaker.  I did not create most of these, though a few, I did.  I have tried to include the ID of the author if I have it but many of these were downloaded from the community on G+ some time ago. I initally used a Moto 360, then an LG watch and a Samsung Galaxy 4 and 7. Not all are complete conversions; some things I have not figured out how to duplicate in WFS. Some things I'm not intrested in duplicating! The basics should be there though.
 
 Watch Face Studio is needed.
 Save wfs file.
