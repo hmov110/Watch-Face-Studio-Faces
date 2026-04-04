@@ -25,6 +25,7 @@ Use the send to device option to send to a watch.
 * Disney Clock Cleaners - Watch was part of the Walt Disney Elements Collection in honor of the 1937 "short" of the same name. Probably downloaded from G+. Orignal author missing.
 * Disney Trio - by Zedonite
 * Disney Friends - by David Faulks. Slightly modded.  Orginally "Disney Friends Silver"
+* HMDL - by rfloto. Disneyland Haunted Mansion. Minus the battery level box.
 * Donald At Bat - Author uncertain.  There is a very similar version by PaulBAMM00. This is based on "Donald At Bat v2.0"
 * Donald Duck - by Tag1tup4fun.
 * El Pato Naco - Donald from a Tobler Chocolate Wrapper. By Bri@n and j@y
