@@ -32,6 +32,7 @@ Use the send to device option to send to a watch.
 * El Pato Naco - Donald from a Tobler Chocolate Wrapper. By Bri@n and j@y
 * Everest - Original author no known.
 * Fantasia Moon Phase - by Zedonite
+* Goofy Guitar - by Jeffrey Bidwell, March 30, 2016. Found on watchaware.com
 * Haunted Mansion Clock - the clock in the Hauted Mansion - Author unknown
 * Headed to WDW - Originally "Mickey Mouse - heading to Disney World Jan29th".  Author unknown but bound for Disney World!
 * Ingersol Donald 60th Anniversary - by PaulBAMM00
